@@ -1,2 +1,9 @@
 # British-Airways-Job-Simulation-DS
-Implemented data science tasks 
+
+# Task-1
+
+## Web scraping to gain company insights
+
+-Scrape and analyse customer review data to uncover findings for British Airways
+-Present findings through a Power Point Presentation
+
